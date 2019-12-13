@@ -1,0 +1,28 @@
+.sheet {
+    margin: 0;
+    margin-bottom: 2px;
+    margin-top: 5px;
+    padding: 0;
+    page-break-after: always;
+}
+
+.sheet p {
+    margin: 0;
+}
+
+#objName {
+    font-size: 14px;
+}
+
+#serialNo {
+    font-size: 11px;
+}
+
+#barCodeTop {
+    width: 230px;
+    height: 30px;
+}
+#barCodeBottom {
+    width: 255px;
+    height: 46px;
+}
